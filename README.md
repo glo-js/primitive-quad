@@ -2,6 +2,8 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
+![img](http://i.imgur.com/pp1CRXf.png)
+
 Creates an indexed quad mesh (two triangles), with normals and UVs. It sits on the XY plane with `Z=0`, and positions ranging from `-1.0` to `1.0`.
 
 ## Usage
