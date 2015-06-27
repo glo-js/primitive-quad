@@ -2,7 +2,11 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-![img](http://i.imgur.com/pp1CRXf.png)
+![screen](http://i.imgur.com/pp1CRXf.png)(http://glo-js.github.io/primitive-quad/)
+
+[(demo)](http://glo-js.github.io/primitive-quad/)
+
+<!-- iframe: http://glo-js.github.io/primitive-quad/index.html -->
 
 Creates an indexed quad mesh (two triangles), with normals and UVs. It sits on the XY plane with `Z=0`, and positions ranging from `-1.0` to `1.0`.
 
