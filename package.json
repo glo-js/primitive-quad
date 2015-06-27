@@ -1,6 +1,6 @@
 {
   "name": "primitive-quad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an indexed quad mesh with normals and UVs",
   "main": "index.js",
   "license": "MIT",
