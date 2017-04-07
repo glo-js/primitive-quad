@@ -1,6 +1,6 @@
 {
   "name": "primitive-quad",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "an indexed quad mesh with normals and UVs",
   "main": "index.js",
   "license": "MIT",
@@ -9,8 +9,7 @@
     "email": "dave.des@gmail.com",
     "url": "https://github.com/mattdesl"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "browserify": "^10.2.4",
     "budo": "^4.1.0",
