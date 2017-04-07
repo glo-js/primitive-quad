@@ -16,7 +16,7 @@ function primitiveQuad (scale) {
     [0, 1, 2],
     [2, 3, 0]
   ]
-  var uvs = [ [0, 1], [0, 0], [1, 0], [1, 1] ]
+  var uvs = [ [0, 0], [0, 1], [1, 1], [1, 0] ]
   var n = [0, 0, -1]
   var normals = [ n.slice(), n.slice(), n.slice(), n.slice() ]
   return {
